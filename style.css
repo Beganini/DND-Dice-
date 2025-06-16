@@ -1,0 +1,30 @@
+#headings {
+    margin: auto;
+    border: 1px solid black;
+    width: 20vw;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 5vh;
+}
+
+td {
+    border: 1px solid black;
+    width: 10vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 30px;
+}
+
+button {
+    margin: auto;
+    width: 5vw;
+    border: 2px solid black;
+    display: block;
+    margin-top: 1vh;
+    cursor: pointer;
+}
+
